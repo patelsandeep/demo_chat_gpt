@@ -8,7 +8,7 @@ A demo project for chat gpt using __text-davinci-002-render__ and __text-davinci
 1. Get a free API Key at [https://beta.openai.com/account/api-keys)
 2. Clone the repo
    ```sh
-   https://github.com/vishaldhaduk9986/chat_gpt_demo.git
+   https://github.com/patelsandeep/demo_chat_gpt.git
    ```
 3. Enter your API in `constants.dart`
 
